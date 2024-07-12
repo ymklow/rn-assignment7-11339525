@@ -1,6 +1,6 @@
 # DCIT 202 Assignment 7
-Albert Amoako
-11227686
+
+
 
 # Open Fashion App 
 The app fetches data from a fakestore api and provide them on the UI. You can basically add products to cart, romove products from cart, see the total amount of the cart, see details of each product, and have access to different screens.
